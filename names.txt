@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss,9074146821,Schleck,Max
 employee,9074146821,schleck2,max2
+employee,9074146821,SchleckWorker,MaxWorker
